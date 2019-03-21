@@ -1,0 +1,71 @@
+Line Item,Quantity,Reference Designators,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+1,2,"R3, R16",Carbon Film Resistors - Through Hole 1/4W 75 Ohm 5%,Yageo,CFR-25JB-52-75R,Mouser,603-CFR-25JB-52-75R
+2,4,"R1, R2, R15, R100",Carbon Film Resistors - Through Hole 1/4W 1K Ohm 5%,Yageo,CFR-25JB-1K0,Mouser,603-CFR-25JB-1K0 
+3,2,"R8, R13",Carbon Film Resistors - Through Hole 1/4W 1.5K Ohm 5%,Yageo,CFR-25JB-52-1K5,Mouser,603-CFR-25JB-52-1K5 
+4,1,R24,Carbon Film Resistors - Through Hole 1/4W 1.8K Ohm 5%,Yageo,CFR-25JB-52-1K8,Mouser,603-CFR-25JB-52-1K8 
+5,2,"R21, R26",Carbon Film Resistors - Through Hole 1/4W 2.2K Ohm 5%,Yageo,CFR-25JB-52-2K2 ,Mouser,603-CFR-25JB-52-2K2 
+6,3,"R9, R102, R103",Carbon Film Resistors - Through Hole 1/4W 3.3K Ohm 5%,Yageo,CFR-25JB-52-3K3 ,Mouser,603-CFR-25JB-52-3K3 
+7,1,R101,Carbon Film Resistors - Through Hole 1/4W 3.9K Ohm 5%,Yageo,CFR-25JB-52-3K9 ,Mouser,603-CFR-25JB-52-3K9 
+8,2,"R4, R20",Carbon Film Resistors - Through Hole 1/4W 4.7K Ohm 5% ,Yageo,CFR-25JB-52-4K7 ,Mouser,603-CFR-25JB-52-4K7 
+9,2,"R12, R23",Carbon Film Resistors - Through Hole 1/4W 5.6K Ohm 5%,Yageo,CFR-25JB-52-5K6 ,Mouser,603-CFR-25JB-52-5K6 
+10,2,"R19, R22",Carbon Film Resistors - Through Hole 1/4W 10K Ohm 5%,Yageo,CFR-25JB-52-10K ,Mouser,603-CFR-25JB-52-10K 
+11,3,"R5, R10, R11",Carbon Film Resistors - Through Hole 1/4W 15K Ohm 5%,Yageo,CFR-25JB-52-15K ,Mouser,603-CFR-25JB-52-15K 
+12,1,R14,Carbon Film Resistors - Through Hole 1/4W 22K Ohm 5%,Yageo,CFR-25JB-52-22K ,Mouser,603-CFR-25JB-52-22K 
+13,5,"R6, R7, R17, R18, R25",Carbon Film Resistors - Through Hole 1/4W 100K Ohm 5%,Yageo,CFR-25JB-52-100K ,Mouser,603-CFR-25JB-52-100K 
+14,1,C108,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 22pF C0G 5% LS:2.5mm,TDK,FG18C0G1H220JNT00,Mouser,810-FG18C0G1H220JNT0
+15,1,C11,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 220pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H221JNT00,Mouser,810-FG18C0G1H221JNT0
+16,2,"C7, C100",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 470pF C0G 5% LS:2.5mm,TDK,FG18C0G1H471JNT00 ,Mouser,810-FG18C0G1H471JNT0 
+17,3,"C10, C101, C109",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 1000pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H102JNT00,Mouser,810-FG18C0G1H102JNT0
+19,1,C8,Film Capacitors STYRENE 50V .001uF,Xicon,23PS210,Mouser,23PS210
+20,2,"C4, C5",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 2700pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H272JNT06,Mouser,810-FG18C0G1H272JNT6
+21,2,"C9, C102",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 4700pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H472JNT06,Mouser,810-FG18C0G1H472JNT6
+22,1,C103,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.01uF C0G 5% LS:2.5mm ,TDK,FG18C0G1H103JNT06,Mouser,810-FG18C0G1H103JNT6
+23,1,C104,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.047uF C0G 5% LS:2.5mm ,TDK,FG16C0G1H473JNT00,Mouser,810-FG16C0G1H473JNT0
+24,6,"C3*, C4*, C7*, C8*, C3, C105",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.1uF X7R 10% LS:2.5mm,TDK,FG18X7R1H104KNT06,Mouser,810-FG18X7R1H104KNT06
+25,1,C106,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.33uF X7R 10% LS:5mm,TDK,FG24X7R1H334KNT06,Mouser,810-FG24X7R1H334KNT06
+26,2,"C2, C107",Aluminium Electrolytic Capacitors - Radial Leaded 1uF 85c 20%,Nichicon,UVR2C010MED1TD,Mouser,647-UVR2C010MED1TD
+27,1,C1,Aluminium Electrolytic Capacitors - Radial Leaded 10UF 16V 85c,Nichicon,UMA1C100MDD1TP,Mouser,647-UMA1C100MDD1TP
+28,2,"C5*, C6*",Aluminium Electrolytic Capacitors - Radial Leaded 50volts 100uF 8x11.5 20% 3.5LS ,Nichicon,UVR1H101MPD,Mouser,647-UVR1H101MPD
+29,2,"C1*, C2*",Aluminium Electrolytic Capacitors - Radial Leaded 50volts 2200uF 20x25 20% 10LS ,Nichicon,URS1H222MRD,Mouser,647-URS1H222MRD
+30,4,"D1*, D2*; D3*, D4*",1N4001 Rectifiers Vr/50V Io/1A ,Vishay Semiconductors,1N4001-E3/54,Mouser,625-1N4001-E3/54
+31,2,"D5*, D6*",1N5819 Schottky Diodes & Rectifiers Vr/40V Io/1A AMMO,STMicroelectronics,1N5819,Mouser,511-1N5819
+32,3,"D1, D2, D3",1N6263 Schottky Diodes & Rectifiers 15mA 60 Volt ,STMicroelectronics ,1N6263,Mouser,511-1N6263
+33,2,"D4, D5","1N4148  Diodes - General Purpose, Power, Switching 100V Io/200mA BULK",ON Semiconductor / Fairchild,1N4148,Mouser,512-1N4148
+34,2,"Q1, Q2",2N3904 Bipolar Transistors - BJT NPN Gen Pur SS ,Central Semiconductor,2N3904,Mouser,610-2N3904
+35,1,U1*,L7808CV Linear Voltage Regulators 8.0V 1.0A Positive,STMicroelectronics,L7808CV,Mouser,511-L7808CV
+36,1,U2*,L7908CV Linear Voltage Regulators 8.0V 1.5A Negative,STMicroelectronics,L7908CV,Mouser,511-L7908CV
+37,1,U1 ,"LM6172 High Speed Operational Amplifiers Dual High Speed,Low Pwr Amp",Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB
+38,1,U2 ,LM311 Analog Comparators VOLTAGE COMPARATOR,Texas Instruments,LM311N/NOPB,Mouser,926-LM311N/NOPB
+39,2,"U3, U6",ICM7555 Timers & Support Products GEN PUR CMOS TIMER 8 IND ,Renesas / Intersil,ICM7555IPAZ ,Mouser, 968-ICM7555IPAZ 
+40,1,U4,CD4066 Analogue Switch ICs Quad ,Texas Instruments,CD4066BE,Mouser,595-CD4066BE
+41,1,U5,NE592N8 Video Amplifier,ON Semiconductor / Fairchild,NE592N8,obsolete,
+42,1,U7,TL072 Operational Amplifiers - Op Amps JFET Input Low Noise ,Texas Instruments,TL072CP,Mouser,595-TL072CP
+43,1,U8,CD4093 Logic Gates Quad 2In Schmit Trgr,Texas Instruments,CD4093BE,Mouser,595-CD4093BE
+44,1,U9,LF398 Sample & Hold Amplifiers MONOLITHIC SAMPLE & HOLD CIRCUIT ,Texas Instruments,LF398N/NOPB,Mouser,926-LF398N/NOPB
+45,1,J1*,DC Power Connectors PCB 2.1MM,Kobiconn,163-7620E-E,Mouser,163-7620E-E
+46,2,"J1, J2",RCJ-014 RCA Phono Connectors RCA Connectors ,CUI,RCJ-014,Mouser,490-RCJ-014
+47,2,"J3, J4",PJ302M 3.5mm horizontal jack,Thonk,PJ302M,Thonk,PJ302M
+48,3,"XS1, XS2, XS3","Headers & Wire Housings 6P BRD MNT SKT GOLD 1 ROW 10MICRO"" AU ",3M,929870-01-06-RA,Mouser,517-929870-01-06-RA
+49,1,XS4,"Headers & Wire Housings 3P BRD MNT SKT GOLD 1 ROW 10MICRO"" AU ",3M,929870-01-03-RA ,Mouser,517-929870-01-03-RA 
+50,1,"XS1, XS2, XS3, XS4",Headers & Wire Housings FULL STICK HDR/36POS (to break),3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
+51,1,S1*,Slide Switches SLIDE SW 15V 0.5A,E-Switch,EG1224,Mouser,612-EG1224
+52,3,"S1, S2, S3",Toggle Switches SPDT ON-ON PC MNT ,E-Switch,100SP1T1B1M2QEH ,Mouser,612-100-A1121 
+53,1,S4,Toggle Switches ON-OFF-ON SLDR MNT,E-Switch,100SP3T1B1M1QEH,Mouser,612-100SP3T4B1M1Q 
+54,1,S5,Rotary Switches 1 POLE 8 POS D SHAFT ,Alpha,SR1712F-0108-20F0A-N9-N-027 ,Mouser,105-SR1712F-18NS
+55,3,"VR1, VR2, VR7",Potentiometers 1K LINEAR 20% ,Bourns,PTV09A-4025F-B102,Mouser,652-PTV09A-4025FB102
+56,2,"VR3, VR4",Potentiometers 100K LINEAR 20%,Bourns,PTV09A-4025F-B104,Mouser,652-PTV09A-4025FB104
+57,1,VR5,Tall Trimmer 9mm Pots A100K AUDIO ,Song Huei,,Thonk,A100K AUDIO 
+58,1,VR6,Tall Trimmer 9mm Pots B1M LINEAR,Song Huei,,Thonk,B1M LINEAR
+59,4,,Spacer FF 11mm x4,Harwin,R30-1001102,Mouser,855-R30-1001102 
+60,4,,Spacer MF 10mm x4,Harwin,R30-3001002,Mouser,855-R30-3001002
+61,4,,Spacer FF 45mm x4,,,,
+62,20,,M3 Screw 8mm x20,RS Pro,281-186,RS Components,281-186
+63,4,,Rubber foot,RS Pro,382-2386,RS Components,382-2386
+64,1,Enclosure,"Laser cut enclosure, .ai file available",,,,
+65,1,TRQ V2 Main + Control boards,Circuit board,Syntonie,TRQV2,Syntonie,TRQV2
+66,,,,,,,
+67,,,,,,,
+68,,,,,,,
+69,,,,,,,
+70,,,,,,,
+71,,,,,,,
