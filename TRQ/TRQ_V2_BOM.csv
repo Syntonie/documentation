@@ -56,10 +56,11 @@ Line Item,Quantity,Reference Designators,Description,Manufacturer,Manufacturer P
 56,2,"VR3, VR4",Potentiometers 100K LINEAR 20%,Bourns,PTV09A-4025F-B104,Mouser,652-PTV09A-4025FB104
 57,1,VR5,Tall Trimmer 9mm Pots A100K AUDIO ,Song Huei,,Thonk,A100K AUDIO 
 58,1,VR6,Tall Trimmer 9mm Pots B1M LINEAR,Song Huei,,Thonk,B1M LINEAR
-59,4,,Spacer FF 11mm x4,Harwin,R30-1001102,Mouser,855-R30-1001102 
-60,4,,Spacer MF 10mm x4,Harwin,R30-3001002,Mouser,855-R30-3001002
-61,4,,Spacer FF 45mm x4,,,,
-62,20,,M3 Screw 8mm x20,RS Pro,281-186,RS Components,281-186
-63,4,,Rubber foot,RS Pro,382-2386,RS Components,382-2386
-64,1,Enclosure,"Laser cut enclosure, .ai file available",,,,
-65,1,TRQ V2 Main + Control boards,Circuit board,Syntonie,TRQV2,Syntonie,TRQV2
+59,4,,Spacer FF 11mm,Harwin,R30-1001102,Mouser,855-R30-1001102 
+60,4,,Spacer MF 10mm,Harwin,R30-3001002,Mouser,855-R30-3001002
+61,4,,Spacer FF 45mm,,,,
+62,4,,M3 Screw 8mm,RS Pro,281-186,RS Components,281-186
+63,12,,M3 Screw 6mm,RS Pro,822-9098 ,RS Components,822-9098 
+64,4,,Rubber foot,RS Pro,382-2386,RS Components,382-2386
+65,1,Enclosure,"Laser cut enclosure, .ai file available",,,,
+66,1,TRQ V2 Main + Control boards,Circuit board,Syntonie,TRQV2,Syntonie,TRQV2
