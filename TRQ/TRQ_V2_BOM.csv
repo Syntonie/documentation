@@ -26,7 +26,7 @@ Line Item,Quantity,Reference Designators,Description,Manufacturer,Manufacturer P
 26,2,"C2, C107",Aluminium Electrolytic Capacitors - Radial Leaded 1uF 85c 20%,Nichicon,UVR2C010MED1TD,Mouser,647-UVR2C010MED1TD
 27,1,C1,Aluminium Electrolytic Capacitors - Radial Leaded 10UF 16V 85c,Nichicon,UMA1C100MDD1TP,Mouser,647-UMA1C100MDD1TP
 28,2,"C5*, C6*",Aluminium Electrolytic Capacitors - Radial Leaded 50volts 100uF 8x11.5 20% 3.5LS ,Nichicon,UVR1H101MPD,Mouser,647-UVR1H101MPD
-29,2,"C1*, C2*",Aluminium Electrolytic Capacitors - Radial Leaded 50volts 2200uF 20x25 20% 10LS ,Nichicon,URS1H222MRD,Mouser,647-URS1H222MRD
+29,2,"C1*, C2*",Aluminium Electrolytic Capacitors - Radial Leaded 35volts 2200uF 16x25 20% 7.5LS,Nichicon,UVY1V222MHD,Mouser,647-UVY1V222MHD
 30,4,"D1*, D2*; D3*, D4*",1N4001 Rectifiers Vr/50V Io/1A ,Vishay Semiconductors,1N4001-E3/54,Mouser,625-1N4001-E3/54
 31,2,"D5*, D6*",1N5819 Schottky Diodes & Rectifiers Vr/40V Io/1A AMMO,STMicroelectronics,1N5819,Mouser,511-1N5819
 32,3,"D1, D2, D3",1N6263 Schottky Diodes & Rectifiers 15mA 60 Volt ,STMicroelectronics ,1N6263,Mouser,511-1N6263
