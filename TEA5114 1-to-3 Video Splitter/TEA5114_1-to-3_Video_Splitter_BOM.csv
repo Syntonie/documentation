@@ -1,0 +1,10 @@
+Line Item,Quantity,Reference Designators,Description,,,Manufacturer Part Number,Distributor Part Number
+1,1,R1,75R ,,,,
+2,3,"R2, R3, R4",68R,,,,
+3,3,"C1, C2, C3",100nF film capacitor (5.08mm pitch ceramic capacitor can be used),,,,
+4,1,C4,100nF ceramic capacitor 2.54mm,,,,
+5,1,C5,10uF electrolytic capacitor 16V at least,,,,
+6,2,"D1, D2",1N4001,,,,
+7,1,U1,"TEA5114 (obsolete, eBay or Utsource)",,,,
+8,1,J1,DC Power Jack 2.1mm Barrel-Type PCB Mount,,,,
+9,4,"J2, J3, J4, J5",CUI RCJ-024 or Keystone 586,,,,
