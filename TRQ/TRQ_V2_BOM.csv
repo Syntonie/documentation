@@ -16,15 +16,16 @@ Line Item,Quantity,Reference Designators,Description,Manufacturer,Manufacturer P
 15,1,C11,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 220pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H221JNT00,Mouser,810-FG18C0G1H221JNT0
 16,2,"C7, C100",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 470pF C0G 5% LS:2.5mm,TDK,FG18C0G1H471JNT00 ,Mouser,810-FG18C0G1H471JNT0 
 17,3,"C10, C101, C109",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 1000pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H102JNT00,Mouser,810-FG18C0G1H102JNT0
-19,1,C8,Film Capacitors STYRENE 50V .001uF,Xicon,23PS210,Mouser,23PS210
-20,2,"C4, C5",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 2700pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H272JNT06,Mouser,810-FG18C0G1H272JNT6
-21,2,"C9, C102",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 4700pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H472JNT06,Mouser,810-FG18C0G1H472JNT6
-22,1,C103,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.01uF C0G 5% LS:2.5mm ,TDK,FG18C0G1H103JNT06,Mouser,810-FG18C0G1H103JNT6
-23,1,C104,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.047uF C0G 5% LS:2.5mm ,TDK,FG16C0G1H473JNT00,Mouser,810-FG16C0G1H473JNT0
-24,6,"C3*, C4*, C7*, C8*, C3, C105",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.1uF X7R 10% LS:2.5mm,TDK,FG18X7R1H104KNT06,Mouser,810-FG18X7R1H104KNT06
-25,1,C106,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.33uF X7R 10% LS:5mm,TDK,FG24X7R1H334KNT06,Mouser,810-FG24X7R1H334KNT06
-26,2,"C2, C107",Aluminium Electrolytic Capacitors - Radial Leaded 1uF 85c 20%,Nichicon,UVR2C010MED1TD,Mouser,647-UVR2C010MED1TD
-27,1,C1,Aluminium Electrolytic Capacitors - Radial Leaded 10UF 16V 85c,Nichicon,UMA1C100MDD1TP,Mouser,647-UMA1C100MDD1TP
+18,1,C8,Film Capacitors STYRENE 50V .001uF,Xicon,23PS210,Mouser,23PS210
+19,2,"C4, C5",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 2700pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H272JNT06,Mouser,810-FG18C0G1H272JNT6
+20,2,"C9, C102",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 4700pF C0G 5% LS:2.5mm ,TDK,FG18C0G1H472JNT06,Mouser,810-FG18C0G1H472JNT6
+21,1,C103,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.01uF C0G 5% LS:2.5mm ,TDK,FG18C0G1H103JNT06,Mouser,810-FG18C0G1H103JNT6
+22,1,C104,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.047uF C0G 5% LS:2.5mm ,TDK,FG16C0G1H473JNT00,Mouser,810-FG16C0G1H473JNT0
+23,6,"C3*, C4*, C7*, C8*, C3, C105",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.1uF X7R 10% LS:2.5mm,TDK,FG18X7R1H104KNT06,Mouser,810-FG18X7R1H104KNT06
+24,1,C106,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.33uF X7R 10% LS:5mm,TDK,FG24X7R1H334KNT06,Mouser,810-FG24X7R1H334KNT06
+25,2,"C2, C107",Aluminium Electrolytic Capacitors - Radial Leaded 1uF 85c 20%,Nichicon,UVR2C010MED1TD,Mouser,647-UVR2C010MED1TD
+26,1,C1,Aluminium Electrolytic Capacitors - Radial Leaded 10UF 16V 85c,Nichicon,UMA1C100MDD1TP,Mouser,647-UMA1C100MDD1TP
+27,1,C6,Aluminium Electrolytic Capacitors - Radial Leaded 35volts 22uF 16V 6.3x5 20% 2.5LS,Nichicon,UMT1V220MDD,Mouser,647-UMT1V220MD
 28,2,"C5*, C6*",Aluminium Electrolytic Capacitors - Radial Leaded 50volts 100uF 8x11.5 20% 3.5LS ,Nichicon,UVR1H101MPD,Mouser,647-UVR1H101MPD
 29,2,"C1*, C2*",Aluminium Electrolytic Capacitors - Radial Leaded 35volts 2200uF 16x25 20% 7.5LS,Nichicon,UVY1V222MHD,Mouser,647-UVY1V222MHD
 30,4,"D1*, D2*; D3*, D4*",1N4001 Rectifiers Vr/50V Io/1A ,Vishay Semiconductors,1N4001-E3/54,Mouser,625-1N4001-E3/54
