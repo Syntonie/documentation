@@ -47,4 +47,8 @@ Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Dis
 46,1,Y2,3.58MHz crystal,ABRACON,ABL-3.579545MHZ-B2 ,Mouser,815-ABL-3.579545B2 
 47,2,"XS1, XS2",6pin 2.54mm connector female,3M,929870-01-06-RA,Mouser,517-929870-01-06-RA
 48,2,"XS3, XS4",4pin 2.54mm connector female,3M,929870-01-04-RA,Mouser,517-929870-01-06-RA
-49,1,FFG Mainboard,Circuit board,Syntonie,Included in kit/pcb set,,Included in kit/pcb set
+49,2,IC sockets,8pin DIP,Amphenol FCI,DILB8P-223TLF,Mouser,649-DILB8P223TLF
+50,3,IC sockets,14pin DIP,Amphenol FCI,DILB14P-223TLF,Mouser,649-DILB14P-223TLF
+51,3,IC sockets,16pin DIP,Amphenol FCI,DILB16P-223TLF,Mouser,649-DILB16P-223TLF
+52,1,IC sockets,20pin DIP,Amphenol FCI,DILB20P-223TLF,Mouser,649-DILB20P-223TLF
+,1,FFG Mainboard,Circuit board,Syntonie,Included in kit/pcb set,,Included in kit/pcb set

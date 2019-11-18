@@ -20,3 +20,4 @@ Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Dis
 19,6,"S1, S2, S3, S4, S5, S6",DPDT Slide Switch,E-Switch,EG2201B,Mouser,612-EG2201B
 20,1,S7,6PDT Slide Switch,E-Switch,EG6201,Mouser,612-EG6201
 21,1,"XS1, XS2, XS3, XS4",36pin connector to break,3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
+22,5,IC sockets,8pin DIP,Amphenol FCI,DILB8P-223TLF,Mouser,649-DILB8P223TLF
