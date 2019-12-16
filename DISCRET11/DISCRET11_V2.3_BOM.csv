@@ -60,12 +60,4 @@ Line Item,Quantity,Reference Designators,Description,Manufacturer,Manufacturer P
 60,4,"VR7A, VR7B, VR8A, VR8B","Trimmer Resistors - Through Hole 3/8"" 2.2Kohms Sealed Vertical Adjust ",Bourns,3296W-1-222,Mouser,652-3296W-1-222LF
 61,3,"VR1, VR3, VR5","Trimmer Resistors - Through Hole 1/4""SQ 5KOHMS 10% 0.5WATTS ",Bourns,3362P-1-502,Mouser,652-3362P-1-502LF
 62,3,"VR2, VR4, VR6 ","Trimmer Resistors - Through Hole 1/4""SQ 20KOHMS 10% 0.5WATTS ",Bourns,3362P-1-203,Mouser,652-3362P-1-203LF
-63,4,,Spacer FF 11mm,Harwin,R30-1001102,Mouser,855-R30-1001102 
-64,4,,Spacer MF 9mm,Harwin,R30-3000902,Mouser,855-R30-3000902 
-65,4,,Spacer FF 45mm,,,,
-66,12,,M3 Screws 6mm,Keystone,9191-3,Mouser,534-9191-3
-67,4,,M3 Screws 8mm,RS Pro,281-186,RS Components,281-186
-68,4,,Rubber foot,RS Pro,382-2386,RS Components,382-2386
-69,1,Enclosure,"Laser cut enclosure, .ai file available",,,,
-70,1,DISCRET11 V2.3 Control+Main Boards,Circuit board,Syntonie,DISCRET11V2,Syntonie,DISCRET11V2
-71,,,,,,,
+63,1,DISCRET11 V2.3 Control+Main Boards,Circuit board,Syntonie,DISCRET11V2,Syntonie,DISCRET11V2
