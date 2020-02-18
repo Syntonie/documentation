@@ -1,63 +1,63 @@
 Line Item,Quantity,Reference Designators,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
 1,4,"R69, R1', R3', R6'","0R link, user resistor legs as jumpers",,,Mouser,
-2,2,"R93, R94",Carbon Film Resistors - Through Hole 1/4W 10 Ohm 5%,Yageo,CFR-25JB-52-10R,Mouser,603-CFR-25JB-52-10R
-3,1,R66,Carbon Film Resistors - Through Hole 1/4W 75 Ohm 5%,Yageo,CFR-25JB-52-75R,Mouser,603-CFR-25JB-52-75R
-4,1,R90,Carbon Film Resistors - Through Hole 1/4W 100 Ohm 5%,Yageo,CFR-25JB-52-100R,Mouser,603-CFR-25JB-52-100R
-5,1,R18,Carbon Film Resistors - Through Hole 1/4W 470 Ohm 5%,Yageo,CFR-25JB-52-470R,Mouser,603-CFR-25JB-52-470R
-6,5,"R7, R14, R68, R5', R7'",Carbon Film Resistors - Through Hole 1/4W 1K Ohm 5%,Yageo,CFR-25JB-1K0,Mouser,603-CFR-25JB-1K0
-7,2,"R88, R89",Carbon Film Resistors - Through Hole 1/4W 1.2K Ohm 5%,Yageo,CFR-25JT-52-1K2,Mouser,603-CFR-25JT-52-1K2
-8,2,"R91, R92",Carbon Film Resistors - Through Hole 3.3Kohm 5% 1/4W Carbon Film,Yageo,CFR-25JT-52-3K3,Mouser,603-CFR-25JT-52-3K3
-9,2,"R5, R12",Carbon Film Resistors - Through Hole 1/4W 4.7K Ohm 5%,Yageo,CFR-25JT-52-4K7,Mouser,603-CFR-25JT-52-4K7
-10,3,"R15, R4', R8'",Carbon Film Resistors - Through Hole 5.6K ohm 1/4W 5%,Yageo,CFR-25JR-52-5K6,Mouser,603-CFR-25JR-525K6
-11,3,"R54, R58, R62",Carbon Film Resistors - Through Hole 6.8K ohm 1/4W 5%,Yageo,CFR-25JR-52-6K8,Mouser,603-CFR-25JR-52-6K8
-12,7,"R6, R13, R16, R19, R67, Ra, Rb",Carbon Film Resistors - Through Hole 1/4W 10K Ohm 5%,Yageo,CFR-25JB-52-10K,Mouser,603-CFR-25JB-5210K
-13,2,"R87, R2'",Carbon Film Resistors - Through Hole 15K ohm 1/4W 5%,Yageo,CFR-25JR-52-15K,Mouser,603-CFR-25JR-5215K
-14,4,"R3, R4, R10, R11",Carbon Film Resistors - Through Hole 22K ohm 1/4W 5%,Yageo,CFR-25JR-52-22K,Mouser,603-CFR-25JR-5222K
-15,3,"R56, R60, R64",Carbon Film Resistors - Through Hole 1/4W 27K Ohm 5%,Yageo,CFR-25JR-52-27K,Mouser,603-CFR-25JR-5227K
-16,2,"R1, R8",Carbon Film Resistors - Through Hole 100K ohm 1/4W 5%,Yageo,CFR-25JR-52-100K,Mouser,603-CFR-25JR-52-100K
-17,1,R17,Carbon Film Resistors - Through Hole 1/4W 680K Ohm 5%,Yageo,CFR-25JB-52-680K,Mouser,603-CFR-25JB-52-680K
-19,2,"R2, R9",Carbon Film Resistors - Through Hole 1M ohm 1/4W 5%,Yageo,CFR-25JR-52-1M,Mouser,603-CFR-25JR-521M
-20,2,"RA1, RA2",Resistor Networks & Arrays THICK FILM 2% 1K CONFRML SIP,Bourns,4605X-AP1-102LF,Mouser,652-4605X-AP1-102LF
-21,1,C19,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 560pF C0G 5% LS:5mm,TDK,FG28C0G1H561JNT00,Mouser,810-FG28C0G1H561JNT00
-22,3,"C17, C18, C20",Multilayer Ceramic Capacitors MLCC - Leaded RAD 100V 1000pF X7R 10% LS:5mm,TDK,FG28X7R2A102KNT00,Mouser,810-FG28X7R2A102KNT00
-23,2,"C60, C61",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.022uF X7R 10% LS:5mm,TDK,FG28X7R1H223KNT00,Mouser,810-FG28X7R1H223KNT0
-24,16,"C1', C2, C3, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C59",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.1uF X7R 10% LS:2.5mm,TDK,FG18X7R1H104KNT06,Mouser,810-FG18X7R1H104KNT06
-25,2,"C30, C31",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.33uF X7R 10% LS:5mm,TDK,FG24X7R1H334KNT06,Mouser,810-FG24X7R1H334KNT06
-26,3,"C38, C39, C40",Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.47uF X7R 10% LS:5mm,TDK,FG28X7R1H474KRT00,Mouser,810-FG28X7R1H474KRT00
-27,6,"C32, C33, C34, C35, C36, C37",Aluminium Electrolytic Capacitors - Radial Leaded 1uF 85c 20%,Nichicon,UVR2C010MED1TD,Mouser,647-UVR2C010MED1TD
-28,6,"C1, C4, C41, C42, C43, C57",Aluminium Electrolytic Capacitors - Radial Leaded 10UF 16V 85c,Nichicon,UMA1C100MDD1TP,Mouser,647-UMA1C100MDD1TP
-29,1,C58,Aluminium Electrolytic Capacitors - Radial Leaded 47uF 16V 20% Aluminum Capacitor,Nichicon,UMA1C470MDD1TP,Mouser,647-UMA1C470MDD1TP
-30,1,U1,Linear Voltage Regulators 3-Term Pos Regs,Texas Instruments,LM7812CT/NOPB,Mouser,926-LM7812CT/NOPB
-31,1,U2 ,Linear Voltage Regulators Series 3-Terminal 500-mA Positive Voltage Regulators 3-TO-220 -40 to 125,Texas Instruments,LM78M05CT/NOPB,Mouser,926-LM78M05CT/NOPB
-32,2,"U3, U6",Logic Gates Quad 2 Input,Texas Instruments,SN74HC86N,Mouser,595-SN74HC86N
-33,2,"U4, U7",18-Stage Static Register,,CD4006/MC14006/HEF4006/TC4006....,Mouser,
-34,2,"U5, U8",Multiplexer Switch ICs High Spd CMOS Analog,Texas Instruments,CD74HC4051E,Mouser,595-CD74HC4051E
-35,1,U1',Counter ICs 7-Stge Binary Ripple,Texas Instruments,CD74HC4024E,Mouser,595-CD74HC4024E
-36,1,U9,Video ICs Video Sync Separator,Texas Instruments,LM1881N/NOPB,Mouser,926-LM1881N/NOPB
-37,1,U10,Monostable Multi-vibrator Dual Retrig Mono,Texas Instruments,CD74HC4538E,Mouser,595-CD74HC4538E
-38,2,"U12, U13",Monolithic integrated circuit for colour transient improvement (CTI) and luminance delay line (OBSOLETE),,TDA4560/TDA4565/A4565DCa,Mouser,
-39,3,"U14, U15, U16",Television Video Amplifier (OBSOLETE),,TBA970/A270D/K174UP1,Mouser,
-40,1,U17,Multiplexer Switch ICs Triple 2-Ch Analog,Texas Instruments,CD74HC4053E,Mouser,595-CD74HC4053E
-41,1,U18,"High Speed Operational Amplifiers Dual High Speed,Low Pwr Amp",Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB
-42,8,"Q1, Q2, Q4, Q5, Q6, Q7, Q8, Q9",Bipolar Transistors - BJT NPN Transistor General Purpose 2N3904,ON Semiconductor / Fairchild,2N3904BU,Mouser,512-2N3904BU
-43,1,Q3,Bipolar Transistors - BJT PNP Transistor General Purpose 2N3906,ON Semiconductor / Fairchild,2N3906BU,Mouser,512-2N3906BU
-44,4,"D1, D2, D4, D5","Diodes - General Purpose, Power, Switching 100V Io/200mA",ON Semiconductor / Fairchild,1N4148,Mouser,512-1N4148
-45,1,J1,DC Power Connectors PCB 2.1MM,Kobiconn,163-7620E-E,Mouser,163-7620E-E
-46,2,"J2, J3",RCA Phono Connectors RCA Connectors,CUI,RCJ-014,Mouser,490-RCJ-014
-47,2,"J4, J5",Headers & Wire Housings FULL STICK HDR/36POS (to break),3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
-48,2,"J4', J5'","Headers & Wire Housings 4P BRD MNT SKT GOLD 1 ROW 10MICRO"" AU ",3M,929870-01-04-RA,Mouser,517-929870-01-04-RA
-49,1,J6,Headers & Wire Housings FULL STICK HDR/36POS (to break),3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
-50,1,J6',"Headers & Wire Housings 6P BRD MNT SKT GOLD 1 ROW 10MICRO"" AU ",3M,929870-01-06-RA,Mouser,517-929870-01-06-RA
-51,1,J7,Headers & Wire Housings FULL STICK HDR/36POS (to break),3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
-52,1,J7',"Headers & Wire Housings 2P BRD MNT SKT GOLD 1 ROW 10MICRO"" AU ",3M,929870-01-02-RA,Mouser,517-929870-01-02-RA
-53,1,S1,Slide Switches SLIDE SW 15V 0.5A,E-Switch,EG1224,Mouser,612-EG1224
-54,1,S2,Slide Switches DPDT SIDE OP SLIDE,E-Switch,EG2215,Mouser,612-EG2215
-55,2,"S1', S2'",Rotary Switches 1 POLE 8 POS D SHAFT ,Alpha,SR1712F-0108-20F0A-N9-N-027 ,Mouser,105-SR1712F-18NS
-56,3,"S3', S4', S5'",Slide Switches SPDT 125VAC 6A,CW Industries,GF-624-6014 ,Mouser,629-GF6246014
-57,2,"VR1', VR2'",Potentiometers 1K LINEAR 20% ,Bourns,PTV09A-4025F-B102,Mouser,652-PTV09A-4025FB102
-58,2,"VR5', VR6'",Potentiometers 10K LINEAR 20%,Bourns,PTV09A-4025F-B103,Mouser,652-PTV09A-4025FB103
-59,2,"VR3', VR4'",Potentiometers 100K LINEAR 20%,Bourns,PTV09A-4025F-B104,Mouser,652-PTV09A4025FB104
-60,4,"VR7A, VR7B, VR8A, VR8B","Trimmer Resistors - Through Hole 3/8"" 2.2Kohms Sealed Vertical Adjust ",Bourns,3296W-1-222,Mouser,652-3296W-1-222LF
-61,3,"VR1, VR3, VR5","Trimmer Resistors - Through Hole 1/4""SQ 5KOHMS 10% 0.5WATTS ",Bourns,3362P-1-502,Mouser,652-3362P-1-502LF
-62,3,"VR2, VR4, VR6 ","Trimmer Resistors - Through Hole 1/4""SQ 20KOHMS 10% 0.5WATTS ",Bourns,3362P-1-203,Mouser,652-3362P-1-203LF
+2,2,"R93, R94",10R,Yageo,CFR-25JB-52-10R,Mouser,603-CFR-25JB-52-10R
+3,1,R66,75R,Yageo,CFR-25JB-52-75R,Mouser,603-CFR-25JB-52-75R
+4,1,R90,100R,Yageo,CFR-25JB-52-100R,Mouser,603-CFR-25JB-52-100R
+5,1,R18,470R,Yageo,CFR-25JB-52-470R,Mouser,603-CFR-25JB-52-470R
+6,5,"R7, R14, R68, R5', R7'",1k,Yageo,CFR-25JB-1K0,Mouser,603-CFR-25JB-1K0
+7,2,"R88, R89",1.2k,Yageo,CFR-25JT-52-1K2,Mouser,603-CFR-25JT-52-1K2
+8,2,"R91, R92",3.3k,Yageo,CFR-25JT-52-3K3,Mouser,603-CFR-25JT-52-3K3
+9,2,"R5, R12",4.7k,Yageo,CFR-25JT-52-4K7,Mouser,603-CFR-25JT-52-4K7
+10,3,"R15, R4', R8'",5.6k,Yageo,CFR-25JR-52-5K6,Mouser,603-CFR-25JR-525K6
+11,3,"R54, R58, R62",6.8k,Yageo,CFR-25JR-52-6K8,Mouser,603-CFR-25JR-52-6K8
+12,7,"R6, R13, R16, R19, R67, Ra, Rb",10k,Yageo,CFR-25JB-52-10K,Mouser,603-CFR-25JB-5210K
+13,2,"R87, R2'",15k,Yageo,CFR-25JR-52-15K,Mouser,603-CFR-25JR-5215K
+14,4,"R3, R4, R10, R11",22k,Yageo,CFR-25JR-52-22K,Mouser,603-CFR-25JR-5222K
+15,3,"R56, R60, R64",27k,Yageo,CFR-25JR-52-27K,Mouser,603-CFR-25JR-5227K
+16,2,"R1, R8",100k,Yageo,CFR-25JR-52-100K,Mouser,603-CFR-25JR-52-100K
+17,1,R17,680k,Yageo,CFR-25JB-52-680K,Mouser,603-CFR-25JB-52-680K
+19,2,"R2, R9",1M,Yageo,CFR-25JR-52-1M,Mouser,603-CFR-25JR-521M
+20,2,"RA1, RA2",1k resistor array,Bourns,4605X-AP1-102LF,Mouser,652-4605X-AP1-102LF
+21,1,C19,560pF,TDK,FG28C0G1H561JNT00,Mouser,810-FG28C0G1H561JNT00
+22,3,"C17, C18, C20",1nF,TDK,FG28X7R2A102KNT00,Mouser,810-FG28X7R2A102KNT00
+23,2,"C60, C61",2.2nF,TDK,FG28X7R1H223KNT00,Mouser,810-FG28X7R1H223KNT0
+24,16,"C1', C2, C3, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C59",0.1uF,TDK,FG18X7R1H104KNT06,Mouser,810-FG18X7R1H104KNT06
+25,2,"C30, C31",0.33uF,TDK,FG24X7R1H334KNT06,Mouser,810-FG24X7R1H334KNT06
+26,3,"C38, C39, C40",0.47uF,TDK,FG28X7R1H474KRT00,Mouser,810-FG28X7R1H474KRT00
+27,6,"C32, C33, C34, C35, C36, C37",1uF,Nichicon,UVR2C010MED1TD,Mouser,647-UVR2C010MED1TD
+28,6,"C1, C4, C41, C42, C43, C57",10uF,Nichicon,UMA1C100MDD1TP,Mouser,647-UMA1C100MDD1TP
+29,1,C58,47uF,Nichicon,UMA1C470MDD1TP,Mouser,647-UMA1C470MDD1TP
+30,1,U1,LM7812,Texas Instruments,LM7812CT/NOPB,Mouser,926-LM7812CT/NOPB
+31,1,U2 ,LM7805,Texas Instruments,LM78M05CT/NOPB,Mouser,926-LM78M05CT/NOPB
+32,2,"U3, U6",74HC86N,Texas Instruments,SN74HC86N,Mouser,595-SN74HC86N
+33,2,"U4, U7",CD4006,,CD4006/MC14006/HEF4006/TC4006....,Mouser,
+34,2,"U5, U8",74HC4051E,Texas Instruments,CD74HC4051E,Mouser,595-CD74HC4051E
+35,1,U1',74HC4024E,Texas Instruments,CD74HC4024E,Mouser,595-CD74HC4024E
+36,1,U9,LM1881N,Texas Instruments,LM1881N/NOPB,Mouser,926-LM1881N/NOPB
+37,1,U10,74HC4538E,Texas Instruments,CD74HC4538E,Mouser,595-CD74HC4538E
+38,2,"U12, U13",TDA4560,,TDA4560/TDA4565/A4565DCa,Mouser,
+39,3,"U14, U15, U16",TBA970,,TBA970/A270D/K174UP1,Mouser,
+40,1,U17,74HC4053E,Texas Instruments,CD74HC4053E,Mouser,595-CD74HC4053E
+41,1,U18,LM6172IN,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB
+42,8,"Q1, Q2, Q4, Q5, Q6, Q7, Q8, Q9",2N3904,ON Semiconductor / Fairchild,2N3904BU,Mouser,512-2N3904BU
+43,1,Q3,2N3906,ON Semiconductor / Fairchild,2N3906BU,Mouser,512-2N3906BU
+44,4,"D1, D2, D4, D5",1N4148,ON Semiconductor / Fairchild,1N4148,Mouser,512-1N4148
+45,1,J1,DC Power Connectors,Kobiconn,163-7620E-E,Mouser,163-7620E-E
+46,2,"J2, J3",RCA Connectors,CUI,RCJ-014,Mouser,490-RCJ-014
+47,2,"J4, J5",4 pin male connector,3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
+48,2,"J4', J5'",4 pin female connector,3M,929870-01-04-RA,Mouser,517-929870-01-04-RA
+49,1,J6,6 pin male connector,3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
+50,1,J6',6 pin female connector,3M,929870-01-06-RA,Mouser,517-929870-01-06-RA
+51,1,J7,2 pin male connector,3M,929834-01-36-RK,Mouser,517-929834-01-36-RK
+52,1,J7',2 pin female connector,3M,929870-01-02-RA,Mouser,517-929870-01-02-RA
+53,1,S1,Slide Switches SPDT,E-Switch,EG1224,Mouser,612-EG1224
+54,1,S2,Slide Switches DPDT,E-Switch,EG2215,Mouser,612-EG2215
+55,2,"S1', S2'",Rotary Switche SP8T,Alpha,SR1712F-0108-20F0A-N9-N-027 ,Mouser,105-SR1712F-18NS
+56,3,"S3', S4', S5'",Slide Switches SPDT,CW Industries,GF-624-6014 ,Mouser,629-GF6246014
+57,2,"VR1', VR2'",1k,Bourns,PTV09A-4025F-B102,Mouser,652-PTV09A-4025FB102
+58,2,"VR5', VR6'",10k,Bourns,PTV09A-4025F-B103,Mouser,652-PTV09A-4025FB103
+59,2,"VR3', VR4'",100k,Bourns,PTV09A-4025F-B104,Mouser,652-PTV09A4025FB104
+60,4,"VR7A, VR7B, VR8A, VR8B",2.2k,Bourns,3296W-1-222,Mouser,652-3296W-1-222LF
+61,3,"VR1, VR3, VR5",5k,Bourns,3362P-1-502,Mouser,652-3362P-1-502LF
+62,3,"VR2, VR4, VR6 ",20k,Bourns,3362P-1-203,Mouser,652-3362P-1-203LF
 63,1,DISCRET11 V2.3 Control+Main Boards,Circuit board,Syntonie,DISCRET11V2,Syntonie,DISCRET11V2
