@@ -1,5 +1,5 @@
 # documentation
 
-Documentation for Syntonie's project.
+Documentation for Syntonie project.
 
 www.syntonie.fr
