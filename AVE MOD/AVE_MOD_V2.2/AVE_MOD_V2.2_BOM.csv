@@ -29,7 +29,9 @@ UMA1C100MDD1TP ",Mouser,647-UMA1C100MDD1TP
 26,1,C1',Aluminium Electrolytic Capacitors - Radial Leaded 2.2UF 50V 85c,Nichicon,USA1H2R2MDD1TP,Mouser,647-USA1H2R2MDD1TP
 27,1,C4',Aluminium Electrolytic Capacitors - Radial Leaded 25volts 100uF 6.3x11 20% 2.5LS,Nichicon,UVR1E101MED,Mouser,647-UVR1E101MED
 28,4,"D1, D2, D1', D2'","Diodes - General Purpose, Power, Switching 100V Io/200mA",ON Semiconductor / Fairchild,1N4148,Mouser,512-1N4148
-29,1,D3',LED 5mm Red Super Bright ,Broadcom / Avago,HLMP-CM1G-350DD,Mouser,630-HLMP-CM1G-350DD 
+29,1,D3',LED 5mm Green Super Bright ,Broadcom,"HLMP-CM1G-350DD 
+",Mouser,"630-HLMP-CM1G-350DD 
+"
 30,3,"Q1, Q3, Q1'",Bipolar Transistors - BJT NPN Transistor General Purpose 2N3904,ON Semiconductor / Fairchild,2N3904BU,Mouser,512-2N3904BU
 31,1,Q2,Bipolar Transistors - BJT PNP Transistor General Purpose 2N3906,ON Semiconductor / Fairchild,2N3906BU,Mouser,512-2N3906BU
 32,1,U1',Operational Amplifiers - Op Amps JFET Input Low Noise TL074,Texas Instrument,TL074CN,Mouser,595-TL074CN
