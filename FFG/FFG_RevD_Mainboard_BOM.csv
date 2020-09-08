@@ -33,7 +33,7 @@ Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Dis
 32,1,REG1,LM7812,Texas Instruments,LM7812CT/NOPB,Mouser,926-LM7812CT/NOPB
 33,1,REG2,LM7912,Texas Instruments,LM7912CT/NOPB,Mouser,926-LM7912CT/NOPB
 34,1,U1,LM6172,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB
-35,1,U2,LM1881,Texas Instruments,LM1881N/NOPB,Mouser,926-LM1881N/NOPB
+35,1,U2,LM1881N,Obsolete (inclued in pcb set),,,
 36,2,"U3, U4",LM339N,Texas Instruments,LM339AN,Mouser,595-LM339AN
 37,1,U5,CD4532,Texas Instruments,CD4532BE,Mouser,595-CD4532BE
 38,2,"U6, U7",CD4052,Texas Instruments,CD4052BE,Mouser,595-CD4052BE
