@@ -1,5 +1,5 @@
-Line Item;Quantity;Ref Des;Description;Manufacturer;Manufacturer Part Number;Distributor;Distributor Part Number
-1;1;J1;Mini-DIN 4pins;CUI;MD-40SM;Mouser;490-MD-40SM
-2;4;J2, J3, J6, J9;RCA right angle;CUI;RCJ-014;Mouser;490-RCJ-014
-3;3;J4, J7, J10;BNC right angle;Amphenol;031-5431-10RFX;Mouser;523-31-5431-10RFX
-4;3;J5, J8, J11;3.5mm mono jack right angle;Qingpu;PJ302M;Thonk;PJ302M
+Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+1,1,J1,Mini-DIN 4pins,CUI,MD-40SM,Mouser,490-MD-40SM
+2,4,"J2, J3, J6, J9",RCA right angle,CUI,RCJ-014,Mouser,490-RCJ-014
+3,3,"J4, J7, J10",BNC right angle,Amphenol,031-5431-10RFX,Mouser,523-31-5431-10RFX
+4,3,"J5, J8, J11",3.5mm mono jack right angle,Qingpu,PJ302M,Thonk,PJ302M
