@@ -1,0 +1,7 @@
+Note about 2.54mm headers : listed here are 1x8 headers, cheaper to get this Mouser ref 61304011121 and break it appart. Alternatively, Tayda provide 40pin headers for quite cheap
+
+Note about 2.54mm stackables/sockets : 1x8 ref listed here just fit in the width of the board (20mm), though Tayda ones can be used as long as the extra mm is sanded.
+Probably worth getting a few extra as sanding can fragilize the connector a bit.
+
+Note about spacers: if using the Mouser refs, spacers needs to be 10mm+6mm/12mm. For Tayda ref, 11mm+6mm/11mm MF
+

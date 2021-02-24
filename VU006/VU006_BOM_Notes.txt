@@ -1,0 +1,10 @@
+Note about 2.54mm headers : listed here are 1x2 and 1x8 headers, cheaper to get this Mouser ref 61304011121 and break it appart. Alternatively, Tayda provide 40pin headers for quite cheap
+
+Note about 2.54mm stackables/sockets : 1x8 ref listed here just fit in the width of the board (20mm), though Tayda ones (21mm) can be used as long as the extra mm is sanded.
+Probably worth getting a few extra as sanding can fragilize the connector a bit. 1x2 socket can be the one listed or Tayda, no modification needed.
+
+Note about spacers: if using the Mouser refs for socket/stackable, spacers needs to be 11mm MF/12mm FF. For Tayda ref, 11mm FF/11mm MF
+
+Note about C1->C6 capacitors: those capacitors sets the timing of the oscillator, if using ceramic capacitors, ensure that they're C0G dieletric, else it might not oscillate at all.
+For bigger values, film capacitors can be used.
+
