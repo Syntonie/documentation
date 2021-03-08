@@ -1,27 +1,27 @@
-Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
-,,,,,,,
-PSU,,,,,,,
-,,,,,,,
-1,1,C1,220uF,,,,
-2,2,"C2, C3",2200uF,,,,
-3,1,C4,100nF SMD (pre-soldered),,,,
-4,3,"D1, D2, D3",1N5819 SMD (pre-soldered),,,,
-5,2,"L1, L2",100uH inductor,,,,
-6,2,"R1, R2",47k resistor SMD (pre-soldered),,,,
-7,2,"U1, U2",LM2575T-12 SMD (pre-soldered),,,,
-8,1,J1,DC connector,,,,
-9,1,J2,16pin power connector,,,,
-10,1,PSU,15VDC/500mA/center (+) PSU,,,,
-11,1,PCB,DC/DC PSU PCB,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-Enclosure,,,,,,,
-,,,,,,,
-1,6,,M3 brass insert (pre-installed on enclosure kit),,,,
-2,4,,M3 6mm screw,,,,
-3,4,,M3 12mm screw,,,,
-4,1,,11mm spacer,,,,
-5,4,,Adhesive rubber foot,,,,
-6,1,,Enclosure Top Part,,,,
-7,1,,Enclosure Bottom Part,,,,
+Line Item;Quantity;Ref Des;Description;Manufacturer;Manufacturer Part Number;Distributor;Distributor Part Number
+;;;;;;;
+PSU;;;;;;;
+;;;;;;;
+1;1;C1;100uF/35V;;;;
+2;2;C2, C3;2200uF/35V;;;;
+3;1;C4;100nF SMD (pre-soldered);;;;
+4;3;D1, D2, D3;1N5819 SMD (pre-soldered);;;;
+5;2;L1, L2;100uH inductor;;;;
+6;2;R1, R2;47k resistor SMD (pre-soldered);;;;
+7;2;U1, U2;LM2575T-12 SMD (pre-soldered);;;;
+8;1;J1;DC connector;;;;
+9;1;J2;16pin power connector;;;;
+10;1;PSU;15VDC/500mA/center (+) PSU;;;;
+11;1;PCB;DC/DC PSU PCB;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Enclosure;;;;;;;
+;;;;;;;
+1;6;;M3 brass insert (pre-installed on enclosure kit);;;;
+2;4;;M3 6mm screw;;;;
+3;4;;M3 12mm screw;;;;
+4;1;;11mm spacer;;;;
+5;4;;Adhesive rubber foot;;;;
+6;1;;Enclosure Top Part;;;;
+7;1;;Enclosure Bottom Part;;;;
