@@ -7,7 +7,9 @@ https://syntonie.fr/wp-content/uploads/2021/01/CBV002_Control_RevF_iBOM.html
 Mouser Cart:
 
 https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=b4d8f833f2
+
 (As always, parts stock may vary, use "Search Similar" on Mouser to find alternative parts)
+
 (At the time I write this, CD4053 and CD4046 are on backorder. 74HC4053 is not suited because of the lower voltage rating. Check with other components distributors (https://octopart.com/))
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
