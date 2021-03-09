@@ -1,3 +1,17 @@
+Interactive BOMs:
+
+https://syntonie.fr/wp-content/uploads/2021/01/VU005_Main_RevD_iBOM.html
+
+https://syntonie.fr/wp-content/uploads/2021/01/VU005_Control_RevC_iBOM.html
+
+https://syntonie.fr/wp-content/uploads/2021/01/VU005_Power_RevC_iBOM.html
+
+Mouser Cart:
+
+https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=761b8271d5
+
+
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
