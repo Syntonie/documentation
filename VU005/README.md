@@ -10,6 +10,7 @@ Mouser Cart:
 
 https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=761b8271d5
 
+(As always, parts stock may vary, use "Search Similar" on Mouser to find alternative parts, or check with other components distributors (https://octopart.com/))
 
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
