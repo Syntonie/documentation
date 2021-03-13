@@ -1,3 +1,17 @@
+Interactive BOMs:
+
+https://syntonie.fr/wp-content/uploads/2021/01/VU006_Main_RevB_iBOM.html
+
+https://syntonie.fr/wp-content/uploads/2021/01/VU006_Control_RevB_iBOM.html
+
+https://syntonie.fr/wp-content/uploads/2021/01/VU006_Power_RevC_iBOM.html
+
+Mouser Cart:
+
+https://www.mouser.fr/ProjectManager/ProjectDetail.aspx?AccessID=a740eef595
+
+(As always, parts stock may vary, use "Search Similar" on Mouser to find alternative parts, or check with other components distributors (https://octopart.com/))
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
