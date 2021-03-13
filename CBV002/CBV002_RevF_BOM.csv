@@ -37,7 +37,7 @@ Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Dis
 36,1,U2,TDA4565,(obsolete supplied with pcb set),,,
 37,2,"U4, U9",CD4053,Texas Instruments,CD4053BE,Mouser,595-CD4053BE
 38,1,U6,LM1881N,(obsolete supplied with pcb set),,,
-39,1,U7,74HC4538,Texas Instruments,CD74HC4538E,Mouser,595-CD74HC4538EE4
+39,1,U7,74HC4538,Texas Instruments,CD74HC4538E,Mouser,595-CD74HC4538E
 40,2,"U10, U13",74HC86,Texas Instruments,SN74HC86N,Mouser,595-SN74HC86N
 41,1,U11,CD4006,(obsolete supplied with pcb set),,,
 42,1,U12,CD4051,Texas Instruments,CD4051BE,Mouser,595-CD4051BE
