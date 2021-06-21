@@ -1,35 +1,36 @@
-Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number,
 1,15,"C1, C2, C3, C4, C5, C6, C7, C8,
-C9, C10, C11, C12, C13, C14, C18",100nF,TDK,FG18X7R1H104KNT06 ,Mouser,810-FG18X7R1H104KNT06
-2,1,C17,330nF,TDK,FG18X7R1H334KRT00,Mouser,810-FG18X7R1H334KRT00
-3,2,"C15, C16",10uF,Nichicon,USA1V100MDD1TP,Mouser,647-USA1V100MDD1TP
-4,2,"D1, D2",1N4001,Vishay	,1N4001-E3/54,Mouser,625-1N4001-E3/54
+C9, C10, C11, C12, C13, C14, C18",100nF,TDK,FG18X7R1H104KNT06 ,Mouser,810-FG18X7R1H104KNT06,
+2,1,C17,330nF,TDK,FG18X7R1H334KRT00,Mouser,810-FG18X7R1H334KRT00,
+3,2,"C15, C16",10uF,Nichicon,USA1V100MDD1TP,Mouser,647-USA1V100MDD1TP,
+4,2,"D1, D2",1N4001,Vishay,,1N4001-E3/54,Mouser,625-1N4001-E3/54
 5,16,"R1, R2, R4, R6, R7, R8, R9, R10, R15,
- R16, R17, R18, R19, R24, R25, R26",499R,KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F
-6,3,"R21, R22, R23",75R ,KOA Speer,MF1/4DCT52R75R0F,Mouser,660-MF1/4DCT52R75R0F
-7,1,R3,215R ,KOA Speer,MF1/4DCT52R2150F,Mouser,660-MF1/4DCT52R2150F
-8,1,R5,768R ,KOA Speer,MF1/4DCT52R7680F,Mouser,660-MF1/4DCT52R7680F
-9,1,R11,698R,KOA Speer,MF1/4DCT52R6980F,Mouser,660-MF1/4DCT52R6980F
-10,1,R12,1k,KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F
-11,1,R13,2.7k,KOA Speer,MF1/4DCT52R2701F,Mouser,660-MF1/4DCT52R2701F
-12,1,R14,976R,KOA Speer,MF1/4DCT52R9760F,Mouser,660-MF1/4DCT52R9760F
-13,1,R20,680k,KOA Speer,MF1/4DCT52R6803F,Mouser,660-MF1/4DCT52R6803F
-14,3,"U3, U4, U5",LM6172,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB
-15,1,U1,LM1881N,Obsolete (included in pcb set),,,
-16,1,U2,CD4053,Texas Instruments,CD4053BE,Mouser,595-CD4053BE
-17,1,U6,LM7805,Texas Instruments,LM7805CT/NOPB,Mouser,926-LM7805CT/NOPB
-18,1,J1,RCA (red),CUI Devices,RCJ-022,Mouser,490-RCJ-022
-19,1,J2,RCA (green),CUI Devices,RCJ-026,Mouser,490-RCJ-026
-20,1,J3,RCA (blue),CUI Devices,RCJ-025,Mouser,490-RCJ-025
-21,3,"J4, J5, J6",Jack,Qingpu,PJ398SM,Thonk,PJ398SM
-22,1,J7,10pin power connector,Wurth Elektronik,61201021621,Mouser,710-61201021621
-23,2,"FB1, FB2",Ferrite bead,Fair-Rite,2743001111,Mouser,623-2743001111
-24,2,"XS1, XS2 (Control board)",6pin female connector,GTK,A-1389,Tayda,A-1389
-25,2,"XS1, XS2 (Main board)",6pin stackable connector,Tayda Electronics,TYARD6PINH,Tayda,A-1048
-26,2,"XS1, XS2 (Power board)",6pin male connector (to break appart),GTK,40 Pin Header Strip,Tayda,A-197
-27,2,,M3 spacer 10mm FF ,Tayda Electronics,Standoff Spacer M3x10mm Female Silver,Tayda,A-1242
-28,4,,M3 screw 6mm,Tayda Electronics,M3 Stainless Screw 3x6mm,Tayda,A-4372
-29,1,,VU003 Control board,Syntonie,VU003_REVB_Controlboard,Syntonie,VU003_REVB_Controlboard
-30,1,,VU003 Main board,Syntonie,VU003_REVB_Mainboard,Syntonie,VU003_REVB_Mainboard
-31,1,,VU003 Power board,Syntonie,VU003_REVB_Powerboard,Syntonie,VU003_REVB_Powerboard
-32,1,,VU003 Front panel,Syntonie,VU003_REVB_FP,Syntonie,VU003_REVB_FP
+ R16, R17, R18, R19, R24, R25, R26",499R,KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,
+6,3,"R21, R22, R23",75R ,KOA Speer,MF1/4DCT52R75R0F,Mouser,660-MF1/4DCT52R75R0F,
+7,1,R3,215R ,KOA Speer,MF1/4DCT52R2150F,Mouser,660-MF1/4DCT52R2150F,
+8,1,R5,768R ,KOA Speer,MF1/4DCT52R7680F,Mouser,660-MF1/4DCT52R7680F,
+9,1,R11,698R,KOA Speer,MF1/4DCT52R6980F,Mouser,660-MF1/4DCT52R6980F,
+10,1,R12,1k,KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,
+11,1,R13,2.7k,KOA Speer,MF1/4DCT52R2701F,Mouser,660-MF1/4DCT52R2701F,
+12,1,R14,976R,KOA Speer,MF1/4DCT52R9760F,Mouser,660-MF1/4DCT52R9760F,
+13,1,R20,680k,KOA Speer,MF1/4DCT52R6803F,Mouser,660-MF1/4DCT52R6803F,
+14,3,"R27, R28, R29 (not on board)",100k,KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4DCT52R1003F,
+15,3,"U3, U4, U5",LM6172,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,
+16,1,U1,LM1881N,Obsolete (included in pcb set),,,,
+17,1,U2,CD4053,Texas Instruments,CD4053BE,Mouser,595-CD4053BE,
+18,1,U6,LM7805,Texas Instruments,LM7805CT/NOPB,Mouser,926-LM7805CT/NOPB,
+19,1,J1,RCA (red),CUI Devices,RCJ-022,Mouser,490-RCJ-022,
+20,1,J2,RCA (green),CUI Devices,RCJ-026,Mouser,490-RCJ-026,
+21,1,J3,RCA (blue),CUI Devices,RCJ-025,Mouser,490-RCJ-025,
+22,3,"J4, J5, J6",Jack,Qingpu,PJ398SM,Thonk,PJ398SM,
+23,1,J7,10pin power connector,Wurth Elektronik,61201021621,Mouser,710-61201021621,
+24,2,"FB1, FB2",Ferrite bead,Fair-Rite,2743001111,Mouser,623-2743001111,
+25,2,"XS1, XS2 (Control board)",6pin female connector,GTK,A-1389,Tayda,A-1389,
+26,2,"XS1, XS2 (Main board)",6pin stackable connector,Tayda Electronics,TYARD6PINH,Tayda,A-1048,
+27,2,"XS1, XS2 (Power board)",6pin male connector (to break appart),GTK,40 Pin Header Strip,Tayda,A-197,
+28,2,,M3 spacer 10mm FF ,Tayda Electronics,Standoff Spacer M3x10mm Female Silver,Tayda,A-1242,
+29,4,,M3 screw 6mm,Tayda Electronics,M3 Stainless Screw 3x6mm,Tayda,A-4372,
+30,1,,VU003 Control board,Syntonie,VU003_REVB_Controlboard,Syntonie,VU003_REVB_Controlboard,
+31,1,,VU003 Main board,Syntonie,VU003_REVB_Mainboard,Syntonie,VU003_REVB_Mainboard,
+32,1,,VU003 Power board,Syntonie,VU003_REVB_Powerboard,Syntonie,VU003_REVB_Powerboard,
+33,1,,VU003 Front panel,Syntonie,VU003_REVB_FP,Syntonie,VU003_REVB_FP,

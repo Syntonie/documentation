@@ -1,0 +1,31 @@
+Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+1,14,"C1, C2, C3, C4, C5, C6, C7,
+C8, C9, C10, C11, C12, C13, C14",100nF,TDK,FG18X7R1H104KNT06 ,Mouser,810-FG18X7R1H104KNT06
+2,2,"C15, C16",10uF,Nichicon,USA1V100MDD1TP,Mouser,647-USA1V100MDD1TP
+3,8,"D1, D2, D3, D4, D5, D6, D7, D8",1N5711,STMicroelectronics,1N5711,Mouser,511-1N5711
+4,2,"D9, D10",1N4001,Vishay,1N4001-E3/54,Mouser,625-1N4001-E3/54
+5,8,"R8, R9, R18, R19, R28, R29, R38, R39",2k,KOA Speer,MF1/4DCT52R2001F,Mouser,660-MF1/4DCT52R2001F
+6,22,"R3, R4, R5, R6, R7, R13, R14, R15, R16, R17,
+R23, R24, R25, R26, R27, R33, R34, R35,
+R36, R37, R44, R45",1k,KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F
+7,4,"R1, R11, R21, R31",100k,KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4D52R1003F
+8,8,"R2, R10, R12, R20, R22, R30, R32, R40",499R,KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F
+9,1,R41,4.99k,KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F
+10,1,R42,24.9k,KOA Speer,MF1/4DCT52R2492F,Mouser,660-MF1/4DCT52R2492F
+11,1,R43,10k,KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F
+12,6,"U1, U2, U3, U4, U5, U6",LM6172,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB
+13,1,U7,TL431,Texas Instruments,TL431BQLPR,Mouser,595-TL431BQLPR
+14,1,U8,TL072,Texas Instruments,TL072IP,Mouser,595-TL072IP
+15,2,"FB1, FB2",Ferrite bead,Fair-Rite,2743001111,Mouser,623-2743001111
+16,8,"J1, J2, J3, J4, J5, J6, J7, J8",PJ398SM,Qingpu,PJ398SM,Thonk,PJ398SM
+17,1,J9,10 pin power header,Wurth Elektronik,61201021621,Mouser,710-61201021621
+18,2,"XS1, XS2 (control board)",6pin female connector,GTK,A-1389,Tayda,A-1389
+19,2,"XS1, XS2 (main board)",6pin stackable connector,Tayda Electronics,TYARD6PINH,Tayda,A-1048
+20,2,"XS1, XS2 (power board)",6pin male connector (to break appart),GTK,40 Pin Header Strip,Tayda,A-197
+21,2,,M3 spacer 11mm MF,(included in pcb set),,,
+22,2,,M3 spacer 11mm FF,(included in pcb set),,,
+23,4,,M3 screw 6mm,Tayda Electronics,M3 Stainless Screw 3x6mm,Tayda,A-4372
+24,1,,VU002 Control board,Syntonie,VU002_REVC_Controlboard,Syntonie,VU002_REVC_Controlboard
+25,1,,VU002 Main board,Syntonie,VU002_REVC_Mainboard,Syntonie,VU002_REVC_Mainboard
+26,1,,VU002 Power board,Syntonie,VU002_REVC_Powerboard,Syntonie,VU002_REVC_Powerboard
+27,1,,VU002 Front panel,Syntonie,VU002_REVC_FP,Syntonie,VU002_REVC_FP
