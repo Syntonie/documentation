@@ -5,7 +5,8 @@ PSU,,,,,,,
 1,1,J1,DC connector,Kycon,KLDPLX-0202-B,Mouser,806-KLDPLX-0202-B
 2,1,J2,16pin power connector,Wurth Elektronik,61201621621,Mouser,710-61201621621
 3,1,PSU,12VDC/100mA/center (+) PSU,Powerpax,STD-1212T,Farnell,3375938
-4,1,PCB,DC/DC PSU PCB,Syntonie,,,
+4,1,Power cable,10pin-to-16pin power cable,Thonk,10-16 Pin (Short – 15cm),Thonk,10-16 Pin (Short – 15cm)
+5,1,PCB,DC/DC PSU PCB,Syntonie,,,
 ,,,,,,,
 Enclosure,,,,,,,
 ,,,,,,,
