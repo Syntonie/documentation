@@ -1,0 +1,18 @@
+Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+,,,,,,,
+PSU,,,,,,,
+,,,,,,,
+1,1,J1,DC connector,Kycon,KLDPLX-0202-B,Mouser,806-KLDPLX-0202-B
+2,1,J2,16pin power connector,Wurth Elektronik,61201621621,Mouser,710-61201621621
+3,1,PSU,12VDC/100mA/center (+) PSU,Powerpax,STD-1212T,Farnell,3375938
+4,1,PCB,DC/DC PSU PCB,Syntonie,,,
+,,,,,,,
+Enclosure,,,,,,,
+,,,,,,,
+1,6,,M3 brass insert (pre-installed on enclosure kit),RS PRO,204-0616,RS,204-0616
+2,4,,M3 6mm screw,RS PRO,822-9098,RS,822-9098
+3,4,,M3 12mm screw,RS PRO,281-209,RS,281-209
+4,1,,11mm spacer,Wurth Elektronik,970110321,Mouser,710-970110321
+5,4,,Adhesive rubber foot,3M,SJ5012N,RS,236-509
+6,1,,Enclosure Top Part,,,,
+7,1,,Enclosure Bottom Part,,,,
