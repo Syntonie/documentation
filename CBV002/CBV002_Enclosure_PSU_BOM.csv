@@ -2,26 +2,27 @@ Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Dis
 ,,,,,,,
 PSU,,,,,,,
 ,,,,,,,
-1,1,C1,100uF/35V,,,,
-2,2,"C2, C3",2200uF/35V,,,,
+1,1,C1,100uF/35V,Nichicon,UVR1V101MED1TA,Mouser,647-UVR1V101MED1TA
+2,2,"C2, C3",2200uF/35V,Nichicon,UVR1V222MHD1TN,Mouser,647-UVR1V222MHD1TN
 3,1,C4,100nF SMD (pre-soldered),,,,
 4,3,"D1, D2, D3",1N5819 SMD (pre-soldered),,,,
-5,2,"L1, L2",100uH inductor,,,,
+5,2,"L1, L2",100uH inductor,Bourns,RLB9012-101KL,Mouser,652-RLB9012-101KL
 6,2,"R1, R2",47k resistor SMD (pre-soldered),,,,
 7,2,"U1, U2",LM2575T-12 SMD (pre-soldered),,,,
-8,1,J1,DC connector,,,,
-9,1,J2,16pin power connector,,,,
-10,1,PSU,15VDC/500mA/center (+) PSU,,,,
-11,1,PCB,DC/DC PSU PCB,,,,
+8,1,J1,DC connector,Kycon,KLDPLX-0202-B,Mouser,806-KLDPLX-0202-B
+9,1,J2,16pin power connector,Wurth Elektronik,61201621621,Mouser,710-61201621621
+10,1,PSU,15VDC/500mA/center (+) PSU,Powerpax,STD-1504T,Farnell,3375381
+11,1,Power cable,10pin-to-16pin power cable,Thonk,10-16 Pin (Short – 15cm),Thonk,10-16 Pin (Short – 15cm)
+12,1,PCB,DC/DC PSU PCB,Syntonie,,,
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
 Enclosure,,,,,,,
 ,,,,,,,
-1,6,,M3 brass insert (pre-installed on enclosure kit),,,,
-2,4,,M3 6mm screw,,,,
-3,4,,M3 12mm screw,,,,
-4,1,,11mm spacer,,,,
-5,4,,Adhesive rubber foot,,,,
+1,6,,M3 brass insert (pre-installed on enclosure kit),RS PRO,204-0616,RS,204-0616
+2,4,,M3 6mm screw,RS PRO,822-9098,RS,822-9098
+3,4,,M3 12mm screw,RS PRO,281-209,RS,281-209
+4,1,,11mm spacer,Wurth Elektronik,970110321,Mouser,710-970110321
+5,4,,Adhesive rubber foot,3M,SJ5012N,RS,236-509
 6,1,,Enclosure Top Part,,,,
 7,1,,Enclosure Bottom Part,,,,
