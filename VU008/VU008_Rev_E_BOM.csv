@@ -1,0 +1,43 @@
+Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+1,22,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10,
+C11, C12, C13, C14, C15, C16, C17, C18,
+C20, C22, C23, C24",100nF,TDK,FG18X7R1H104KNT06 ,Mouser,810-FG18X7R1H104KNT06
+2,2,"C19, C21",330nF,TDK,FG24X7R1H334KNT06,Mouser,810-FG24X7R1H334KNT06
+3,2,"C25, C26",10uF,Nichicon,USA1V100MDD1TP,Mouser,647-USA1V100MDD1TP
+4,6,"R2, R3, R5, R7, R8, R10",499R,KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F
+5,32,"R13, R14, R18, R19, R20, R21, R22, R23,
+R24, R25, R26, R27, R31, R32, R33, R34,
+R35, R36, R37, R38, R39, R40, R41, R42,
+R44, R46, R47, R48, R49, R50, R52, R54",1k,KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F
+6,4,"R17, R30, R45, R53",2k,KOA Speer,MF1/4DCT52R2001F,Mouser,660-MF1/4DCT52R2001F
+7,1,R55,4.99k,KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F
+8,2,"R43, R51",7.5k,KOA Speer,MF1/4CCT52R7501F,Mouser,660-MF1/4CCT52R7501F
+9,9,"R11, R12, R15, R16, R28, R29, R57, R58,
+R59",10k,KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F
+10,1,R56,24.9k,KOA Speer,MF1/4DCT52R2492F,Mouser,660-MF1/4DCT52R2492F
+11,2,"(R60, R61, not on board, CV input mod)",49.9k,KOA Speer,MF1/4DCT52R4992F,Mouser,660-MF1/4DCT52R4992F
+12,6,"R1, R4, R6, R9, (R62, R63, not on board, CV input mod)",100k,KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4D52R1003F
+13,8,"D1, D2, D3, D4, D5, D6, D7, D8",1N5711,STMicroelectronics,1N5711,Mouser,511-1N5711
+14,2,"D9, D10",1N4001,Vishay,1N4001-E3/54,Mouser,625-1N4001-E3/54
+15,2,"FB1, FB2",Ferrite,Fair-Rite,2743001111,Mouser,623-2743001111
+16,8,"U1, U2, U4, U5, U6, U7, U8, U9",LM6172,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB
+17,2,"U3, U10",TL072,Texas Instruments,TL072IP,Mouser,595-TL072IP
+18,1,U11,78L05,Texas Instruments,UA78L05ACLP,Mouser,595-UA78L05ACLP
+19,1,U12,79L05,Texas Instruments,MC79L05ACLPR,Mouser,595-MC79L05ACLPR
+20,1,U13,TL431,Texas Instruments,TL431BQLPR,Mouser,595-TL431BQLPR
+21,6,"J1, J2, J3, J4, J5, J6",PJ398SM,Qingpu,PJ398SM,Thonk,PJ398SM
+22,1,J7,10pin connector,Wurth Elektronik,61201021621,Mouser,710-61201021621
+23,2,"VR1, VR3",10k pot,Alpha,B10K - D shaft – Alpha Vertical,Thonk,B10K - D shaft - Alpha Vertical
+24,2,"VR2, VR4",10k tall trimmer,Song Huei,B10K - Song Huei TALL,Thonk,B10K - Song Huei TALL
+25,4,"XS1, XS2, XS3, XS4",8pin socket,Tayda,A-1305,Tayda,A-1305
+26,4,"XS1, XS2, XS3, XS4",8pin stackable,Tayda,A-1052,Tayda,A-1052
+27,4,"XS1, XS2, XS3, XS4",8pin header,Tayda,A-197,Tayda,A-197
+28,2,,Sifam knob+blue cap,Sifam,Black Small Skirt D + Blue cap,Thonk,Black Small Skirt D + Blue cap
+29,4,,M3 spacer MF 11mm,Wurth Elektronik,971110365,Mouser,710-971110365
+30,2,,M3 spacer FF 11mm,Wurth Elektronik,970110324,Mouser,710-970110324
+31,4,,M3 6mm screws,Keystone,9191-3,Mouser,534-9191-3
+32,1,VU008_FP_Rev_E,VU008 Front Panel,Syntonie,,,
+33,1,VU008_Control_Rev_E,VU008 Control board,Syntonie,,,
+34,1,VU008_Clip_Rev_E,VU008 Clip board,Syntonie,,,
+35,1,VU008_Phase_Rev_E,VU008 Phase board,Syntonie,,,
+36,1,VU008_Power_Rev_E,VU008 Power board,Syntonie,,,
