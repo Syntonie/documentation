@@ -1,0 +1,5 @@
+Holes drill size:
+
+- Switches: 5.5mm/~0.21in
+- Potentiometers: 6.5mm/~0.26in
+- RCA: 10mm/~0.39in
