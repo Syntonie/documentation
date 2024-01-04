@@ -1,0 +1,9 @@
+Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+1,5,"S1, S2, S3, S4, S5",EG2301A,E-switch,EG2301A,Mouser,612-EG2301A
+2,1,J1,10pin power connector,Wurth Elektronik,61201021621,Mouser,710-61201021621
+3,2,"J2, J3",RCA,CUI Devices,RCJ-024,Mouser,490-RCJ-024
+4,3,"J4, J5, J6",Jack,Qingpu,PJ398SM,Thonk,PJ398SM
+5,5,"VR1, VR2, VR3, VR4, VR5",1k potentiometer,Alpha,B1K - D shaft - Alpha Vertical,Thonk,B1K - D shaft - Alpha Vertical
+6,1,VR6,100k potentiometer,Song Huei,B100K - Song Huei TALL,Thonk,B100K - Song Huei TALL
+7,1,,CBV001 Main board SMD,Syntonie,CBV001_REVE,Syntonie,CBV001_REVC
+8,1,,CBV001 Front panel,Syntonie,CBV001_FP,Syntonie,CBV001_FP
