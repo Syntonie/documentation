@@ -22,8 +22,8 @@ R36, R37, R44, R45",1k,KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F
 18,2,"XS1, XS2 (control board)",6pin female connector,GTK,A-1389,Tayda,A-1389
 19,2,"XS1, XS2 (main board)",6pin stackable connector,Tayda Electronics,TYARD6PINH,Tayda,A-1048
 20,2,"XS1, XS2 (power board)",6pin male connector (to break appart),GTK,40 Pin Header Strip,Tayda,A-197
-21,2,,M3 spacer 11mm MF,(included in pcb set),,,
-22,2,,M3 spacer 11mm FF,(included in pcb set),,,
+21,2,,M3 spacer 11mm MF,Wurth Elektronik,971110365,Mouser,710-971110365
+22,2,,M3 spacer 11mm FF,Wurth Elektronik,970110324,Mouser,710-970110324
 23,4,,M3 screw 6mm,Tayda Electronics,M3 Stainless Screw 3x6mm,Tayda,A-4372
 24,1,,VU002 Control board,Syntonie,VU002_REVC_Controlboard,Syntonie,VU002_REVC_Controlboard
 25,1,,VU002 Main board,Syntonie,VU002_REVC_Mainboard,Syntonie,VU002_REVC_Mainboard

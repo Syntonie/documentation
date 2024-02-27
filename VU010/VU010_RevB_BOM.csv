@@ -1,18 +1,18 @@
-"Line Item","Quantity","Ref Des","Description","Manufacturer","Manufacturer Part Number","Distributor","Distributor Part Number"
-1,10,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10","100nF","TDK","FG18X7R1H104KNT06","Mouser","810-FG18X7R1H104KNT6"
-2,2,"C11, C12","10uF","Nichicon","USA1V100MDD1TP","Mouser","647-USA1V100MDD1TP"
-3,9,"R2, R4, R5, R7, R9, R10, R12, R14, R15","499R","KOA Speer","MF1/4DCT52R4990F","Mouser","660-MF1/4DCT52R4990F"
-4,15,"R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30","1k","KOA Speer","MF1/4DCT52R1001F","Mouser","660-MF1/4DCT52R1001F"
-5,6,"R1, R3, R6, R8, R11, R13","100k","KOA Speer","MF1/4DCT52R1003F","Mouser","660-MF1/4D52R1003F"
-6,2,"D1, D2","1N4001","Vishay","1N4001-E3/54","Mouser","625-1N4001-E3/54"
-7,2,"FB1, FB2","Ferrite","Fair-Rite",2743001111,"Mouser","623-2743001111"
-8,5,"U1, U2, U3, U4, U5","LM6172","Texas Instruments","LM6172IN/NOPB","Mouser","926-LM6172IN/NOPB"
-9,9,"J1, J2, J3, J4, J5, J6, J7, J8, J9","PJ398SM","Qingpu","PJ398SM","Thonk","PJ398SM"
-10,1,"J10","10pin connector","Wurth Elektronik",61201021621,"Mouser","710-61201021621"
-11,2,"XS1, XS2","6-Pin 2.54mm socket","GTK","6 Pin Female Pin Header","Tayda","A-1389"
-12,2,"XS1, XS2","6-Pin 2.54mm header","GTK","40 Pin Header Strip","Tayda","A-197"
-13,2,,"M3 spacer FF 11mm","(included with pcb set)",,,
-14,4,,"M3 6mm screw","Keystone","9191-3","Mouser","534-9191-3"
-15,1,"VU010_FP","VU010 Front Panel","Syntonie",,"Syntonie",
-16,1,"VU010_Control_RevB","VU010 Controlboard","Syntonie",,"Syntonie",
-17,1,"VU010_Main_RevB","VU010 Mainboard","Syntonie",,"Syntonie",
+Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number
+1,10,+ACI-C1, C2, C3, C4, C5, C6, C7, C8, C9, C10+ACI-,100nF,TDK,FG18X7R1H104KNT06,Mouser,810+AC0-FG18X7R1H104KNT6
+2,2,+ACI-C11, C12+ACI-,10uF,Nichicon,USA1V100MDD1TP,Mouser,647+AC0-USA1V100MDD1TP
+3,9,+ACI-R2, R4, R5, R7, R9, R10, R12, R14, R15+ACI-,499R,KOA Speer,MF1/4DCT52R4990F,Mouser,660+AC0-MF1/4DCT52R4990F
+4,15,+ACI-R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30+ACI-,1k,KOA Speer,MF1/4DCT52R1001F,Mouser,660+AC0-MF1/4DCT52R1001F
+5,6,+ACI-R1, R3, R6, R8, R11, R13+ACI-,100k,KOA Speer,MF1/4DCT52R1003F,Mouser,660+AC0-MF1/4D52R1003F
+6,2,+ACI-D1, D2+ACI-,1N4001,Vishay,1N4001+AC0-E3/54,Mouser,625+AC0-1N4001+AC0-E3/54
+7,2,+ACI-FB1, FB2+ACI-,Ferrite,Fair+AC0-Rite,2743001111,Mouser,623+AC0-2743001111
+8,5,+ACI-U1, U2, U3, U4, U5+ACI-,LM6172,Texas Instruments,LM6172IN/NOPB,Mouser,926+AC0-LM6172IN/NOPB
+9,9,+ACI-J1, J2, J3, J4, J5, J6, J7, J8, J9+ACI-,PJ398SM,Qingpu,PJ398SM,Thonk,PJ398SM
+10,1,J10,10pin connector,Wurth Elektronik,61201021621,Mouser,710+AC0-61201021621
+11,2,+ACI-XS1, XS2+ACI-,6+AC0-Pin 2.54mm socket,GTK,6 Pin Female Pin Header,Tayda,A+AC0-1389
+12,2,+ACI-XS1, XS2+ACI-,6+AC0-Pin 2.54mm header,GTK,40 Pin Header Strip,Tayda,A+AC0-197
+13,2,,M3 spacer FF 11mm,Wurth Elektronik,970110324,Mouser,710+AC0-970110324
+14,4,,M3 6mm screw,Keystone,9191+AC0-3,Mouser,534+AC0-9191+AC0-3
+15,1,VU010+AF8-FP,VU010 Front Panel,Syntonie,,Syntonie,
+16,1,VU010+AF8-Control+AF8-RevB,VU010 Controlboard,Syntonie,,Syntonie,
+17,1,VU010+AF8-Main+AF8-RevB,VU010 Mainboard,Syntonie,,Syntonie,

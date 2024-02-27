@@ -29,8 +29,8 @@ C9, C10, C11, C12, C13, C14, C18",100nF,TDK,FG18X7R1H104KNT06 ,Mouser,810-FG18X7
 26,2,"XS1, XS2 (Main board)",6pin stackable header  2.54mm,Tayda Electronics,TYARD6PINH,Tayda,A-1048
 27,2,"XS1, XS2 (Power board)",6pin male connector 2.54mm (to break appart),GTK,40 Pin Header Strip,Tayda,A-197
 28,2,,M3 spacer 10mm FF ,Tayda Electronics,Standoff Spacer M3x10mm Female Silver,Tayda,A-1242
-29,2,,M3 spacer 11mm MF,(included in pcb set),,,
-30,2,,M3 spacer 11mm FF,(included in pcb set),,,
+29,2,,M3 spacer 11mm MF,Wurth Elektronik,971110365,Mouser,710-971110365
+30,2,,M3 spacer 11mm FF,Wurth Elektronik,970110324,Mouser,710-970110324
 31,8,,M3 screw 6mm,Tayda Electronics,M3 Stainless Screw 3x6mm,Tayda,A-4372
 32,1,,VU003 Control board,Syntonie,VU003_REVB_Controlboard,Syntonie,VU003_REVB_Controlboard
 33,1,,VU003 Main board,Syntonie,VU003_REVB_Mainboard,Syntonie,VU003_REVB_Mainboard

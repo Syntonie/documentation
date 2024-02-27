@@ -36,8 +36,8 @@ R17, R20, R25",10k,KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F
 33,2,"XS1, XS2",8pin stackable,Tayda,A-1052,Tayda,A-1052
 34,2,"XS1, XS2",8pin header,Tayda,A-197,Tayda,A-197
 35,2,,Sifam knob+blue cap,Sifam,Black Small Skirt D + Blue cap,Thonk,Black Small Skirt D + Blue cap
-36,2,,M3 spacer MF 11mm,(included with pcb set),,,
-37,2,,M3 spacer FF 11mm,(included with pcb set),,,
+36,2,,M3 spacer MF 11mm,Wurth Elektronik,971110365,Mouser,710-971110365
+37,2,,M3 spacer FF 11mm,Wurth Elektronik,970110324,Mouser,710-970110324
 38,4,,M3 6mm screws,Keystone,9191-3,Mouser,534-9191-3
 39,1,VU009_FP,VU009 Front Panel,Syntonie,,,
 40,1,VU009_Control_Rev_E,VU009 Control board,Syntonie,,,
