@@ -1,10 +1,4 @@
-Interactive BOMs:
-
-https://syntonie.fr/wp-content/uploads/2021/01/VU005_Main_RevD_iBOM.html
-
-https://syntonie.fr/wp-content/uploads/2021/01/VU005_Control_RevC_iBOM.html
-
-https://syntonie.fr/wp-content/uploads/2021/01/VU005_Power_RevC_iBOM.html
+Interactive BOMs doesn't display on github directly, it needs to be downloaded and opened in a web browser.
 
 Mouser Cart:
 

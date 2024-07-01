@@ -1,12 +1,4 @@
-Interactive BOMs:
-
-https://syntonie.fr/wp-content/uploads/2022/07/VU007_Control_Rev_F_iBOM.html
-
-https://syntonie.fr/wp-content/uploads/2022/07/VU007_Clip_Rev_F_iBOM.html
-
-https://syntonie.fr/wp-content/uploads/2022/07/VU007_Conv_Rev_F_iBOM.html
-
-https://syntonie.fr/wp-content/uploads/2022/07/VU007_Power_Rev_F_iBOM.html
+Interactive BOMs doesn't display on github directly, it needs to be downloaded and opened in a web browser.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 

@@ -1,6 +1,4 @@
-Interactive BOM:
-
-https://syntonie.fr/wp-content/uploads/2022/05/CBV001_RevC_iBOM.html
+Interactive BOMs doesn't display on github directly, it needs to be downloaded and opened in a web browser.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
