@@ -1,6 +1,6 @@
 Line Item,Quantity,Ref Des,Description,Manufacturer,Manufacturer Part Number,Distributor,Distributor Part Number,
 1,6,"C1, C2, C3, C4, C5, C6",100nF,TDK,FG18X7R1H104KNT06 ,Mouser,810-FG18X7R1H104KNT06,
-2,2,"C7, C8",10uF,Nichicon,USA1V100MDD1TP,Mouser,647-USA1V100MDD1TP,
+2,2,"C7, C8",10uF,Panasonic,ECE-A1VKA100I,Mouser,667-ECE-A1VKA100I,
 3,2,"D1, D2",1N4001,Vishay,,1N4001-E3/54,Mouser,625-1N4001-E3/54
 4,2,"FB1, FB2",Ferrite bead,Fair-Rite,2743001111,Mouser,623-2743001111,
 5,4,"R1, R6, R11, R16",100k,KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4D52R1003F,
